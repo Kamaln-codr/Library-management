@@ -47,13 +47,9 @@ Built-in os module
 
 Clone the repository
 
-git clone https://github.com/your-username/library-management-system.git
-
-
 Navigate to the project folder
 
 cd library-management-system
-
 
 Run the program
 
