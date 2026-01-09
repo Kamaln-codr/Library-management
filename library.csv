@@ -1,0 +1,4 @@
+type,title,author,isbn,available,size,file_format
+book,The Great Gatsby,F.Scott Fitzgerald,9780743273565,True,,
+book,To Kill A Mockingbird,Harper Lee,9780061120084,True,,
+book,!984,George Orwell,9780451524935,True,,
